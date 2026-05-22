@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+python-jose
+passlib[bcrypt]
+pandas
+numpy
+scikit-learn
+prophet
+openpyxl
+python-multipart
+reportlab
+xlsxwriter
